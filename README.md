@@ -1,4 +1,3 @@
-# Agente-contra-Fake-News---Imers-o-Alura-Google-Gemini
 # Agente Contra Fake News
 
 ## Descrição
