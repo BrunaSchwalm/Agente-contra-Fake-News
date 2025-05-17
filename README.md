@@ -16,7 +16,7 @@ Este projeto implementa um agente de inteligência artificial desenvolvido em Py
 
 Para utilizar o "Agente Contra Fake News", siga estas etapas:
 
-1.  **Acessar o Código no Google Colab:** Clique aqui para ser direcionado para o código (https://github.com/BrunaSchwalm/Agente-contra-Fake-News/blob/main/Agente_contra_Fake_News_Imersão_IA_Alura_%2B_Google_Gemini.ipynb). Isso abrirá o notebook do agente diretamente no Google Colaboratory no seu navegador.
+1.  **Acessar o Código no Google Colab:** Clique no link para ser direcionado para o código (https://github.com/BrunaSchwalm/Agente-contra-Fake-News/blob/main/Agente_contra_Fake_News_Imersão_IA_Alura_%2B_Google_Gemini.ipynb).
 2.  **Executar as Células:** No Google Colab, execute as células de código sequencialmente.
 3.  **Inserir a Notícia:** Quando o código solicitar, cole o texto da notícia que você deseja verificar na caixa de entrada fornecida.
 4.  **Obter a Análise:** O agente de IA processará a notícia e exibirá uma avaliação sobre sua veracidade, juntamente com informações relevantes encontradas durante a pesquisa.
